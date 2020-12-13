@@ -22,3 +22,8 @@
   
 The goal is to make the online teaching/studying a little bit more interactive and easy for students as well as for the Professors by making the interface of the programme/portal 
 as userfriendly as possible with keeping data and privacy intact at the same tim
+
+
+#### project by
+##### Chintan Solanki ( CE -125 )
+##### Kirtan Soni ( CE - 127 )
